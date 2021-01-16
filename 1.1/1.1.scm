@@ -51,4 +51,4 @@
 (define (sqrt x)
   (square-iter 1.0 x))
 
-(display (sqrt 2)) ; => 1.4142156862745097
+; (display (sqrt 2)) ; => 1.4142156862745097
